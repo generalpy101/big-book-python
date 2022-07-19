@@ -24,3 +24,5 @@ Thanks for this book!!
 - Project's source code will be in src directory.
 - Main code will be in main.py file.
 - Rest of the code will be in directories like utils (if any) and directories for assets like images will be named accordingly.
+- Each project will contain requirements.txt file for requirements.
+- Folder name for project will be in format `p{number}-name`.
