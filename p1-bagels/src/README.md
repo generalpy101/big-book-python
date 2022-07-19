@@ -23,10 +23,7 @@ By using strings we can easily compare user input and secret number.
 `random` module will be used to generate random number.  
 
 
-<br />
-
 ------
-<br />
 
 ## Credits
 
